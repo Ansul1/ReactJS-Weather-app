@@ -1,3 +1,6 @@
+Weather application using React js. Weather data fetched from OpenWeatherMap API.
+
+
 
 
 ## Available Scripts
